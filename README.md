@@ -1,4 +1,4 @@
-### Curso de Extensão - Git e GitHub
+## Curso de Extensão - Git e GitHub
 
 Status do curso
 <p align="center">💻 Em andamento...</p>
